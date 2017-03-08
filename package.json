@@ -1,0 +1,5 @@
+{
+  "name": "ngSmoothScroll-fork-to-npm",
+  "version": "2.0.0",
+  "main": "lib/angular-smooth-scroll.js"
+}
